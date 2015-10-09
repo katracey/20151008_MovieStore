@@ -61,15 +61,14 @@ namespace _151008_PairProgramming_3
                     lineArr = line.Split(';');
                     lineList = lineArr.ToList<string>();
                     movies.Add(lineArr[0], lineList);                    
-                    //lineList.Add(IsOverdue(lineList[3], lineList[4]));
-                    
+                    customers.Add(lineArr[1], lineList);
+                                                                 
                     line = reader.ReadLine();
                 }
             }
 
             //Call to interact through console
-            Interact(movies, customers);
-                    
+            Interact(movies, customers);                    
         }
 
         static Dictionary<string, List<string>> Interact(Dictionary<string, List<string>> movies, Dictionary<string, List<string>> customers)
@@ -210,7 +209,7 @@ namespace _151008_PairProgramming_3
                 }
                 else
                 {
-                    Console.WriteLine("Movie not found.");
+                    Console.WriteLine("Customer not found.");
                     Interact(movies, customers);
                 }
             }

@@ -4,3 +4,9 @@ c:\users\wecancodeit\documents\visual studio 2015\Projects\151008_PairProgrammin
 c:\users\wecancodeit\documents\visual studio 2015\Projects\151008_PairProgramming_3\151008_PairProgramming_3\obj\Debug\151008_PairProgramming_3.exe
 c:\users\wecancodeit\documents\visual studio 2015\Projects\151008_PairProgramming_3\151008_PairProgramming_3\obj\Debug\151008_PairProgramming_3.pdb
 c:\users\wecancodeit\documents\visual studio 2015\Projects\151008_PairProgramming_3\151008_PairProgramming_3\obj\Debug\151008_PairProgramming_3.csprojResolveAssemblyReference.cache
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Week 5 - Scope, Data Structures II\151008_PairProgramming_3\151008_PairProgramming_3\bin\Debug\151008_PairProgramming_3.exe.config
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Week 5 - Scope, Data Structures II\151008_PairProgramming_3\151008_PairProgramming_3\obj\Debug\151008_PairProgramming_3.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Week 5 - Scope, Data Structures II\151008_PairProgramming_3\151008_PairProgramming_3\obj\Debug\151008_PairProgramming_3.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Week 5 - Scope, Data Structures II\151008_PairProgramming_3\151008_PairProgramming_3\bin\Debug\151008_PairProgramming_3.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Week 5 - Scope, Data Structures II\151008_PairProgramming_3\151008_PairProgramming_3\bin\Debug\151008_PairProgramming_3.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Week 5 - Scope, Data Structures II\151008_PairProgramming_3\151008_PairProgramming_3\obj\Debug\151008_PairProgramming_3.csprojResolveAssemblyReference.cache
